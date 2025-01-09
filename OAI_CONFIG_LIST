@@ -1,9 +1,9 @@
 [
     {
-        "model": "log-analysis-gpt4",
-        "api_key": "c112f78cdf4b41868c989a9626213cdb",
-        "base_url": "https://labaoaimonitor.openai.azure.com",
+        "model": "your AzureOpenAI model",
+        "api_key": "Azure OpenAI API KEY",
+        "base_url": "https://yourendpoint.openai.azure.com",
         "api_type": "azure",
-        "api_version": "2024-08-01-preview"
+        "api_version": "API VERSION"
     }
 ]
