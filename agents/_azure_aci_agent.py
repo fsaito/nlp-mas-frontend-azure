@@ -2,10 +2,10 @@ import subprocess
 import logging
 
 # Configuração do ACI
-RESOURCE_GROUP = "mas"
-ACI_NAME = "aci-mas"
+RESOURCE_GROUP = ""
+ACI_NAME = ""
 ACI_IMAGE = "mcr.microsoft.com/azure-cli:latest"
-ACI_LOCATION = "eastus"
+ACI_LOCATION = ""
 
 # Configurar logging
 logging.basicConfig(level=logging.INFO)

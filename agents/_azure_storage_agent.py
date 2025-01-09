@@ -7,8 +7,6 @@ import json
 config_list = config_list_from_json("OAI_CONFIG_LIST")
 llm_config = {"config_list": config_list}
 
-
-
 # Classe AzureStorageAgent
 class AzureStorageAgent:
     def __init__(self):
